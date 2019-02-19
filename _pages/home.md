@@ -1,0 +1,50 @@
+---
+ID: 31
+post_title: Home
+author: coursevector
+post_excerpt: ""
+layout: page
+permalink: http://wildereef.com/
+published: true
+post_date: 2019-02-15 02:45:16
+---
+<h1>Handcrafted Kombucha</h1>		
+			<h1>Our Kombucha</h1>		
+		<p>Our kombucha, handcrafted with natural organic free trade teas, promotes good health and reflects our values and efforts as a company.</p>		
+			<a href="http://wildereef.com/?page_id=18" target="_blank" role="button">
+						Learn More
+					</a>
+			<figure class='gallery-item'>
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4ef4d609" href='http://wildereef.com/wp-content/uploads/2019/02/blue-raz.jpg'><img width="150" height="150" src="http://wildereef.com/wp-content/uploads/2019/02/blue-raz-150x150.jpg" alt="" srcset="http://wildereef.com/wp-content/uploads/2019/02/blue-raz-150x150.jpg 150w, http://wildereef.com/wp-content/uploads/2019/02/blue-raz-300x300.jpg 300w, http://wildereef.com/wp-content/uploads/2019/02/blue-raz-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4ef4d609" href='http://wildereef.com/wp-content/uploads/2019/02/ginger-peach.jpg'><img width="150" height="150" src="http://wildereef.com/wp-content/uploads/2019/02/ginger-peach-150x150.jpg" alt="" srcset="http://wildereef.com/wp-content/uploads/2019/02/ginger-peach-150x150.jpg 150w, http://wildereef.com/wp-content/uploads/2019/02/ginger-peach-300x300.jpg 300w, http://wildereef.com/wp-content/uploads/2019/02/ginger-peach-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4ef4d609" href='http://wildereef.com/wp-content/uploads/2019/02/grapple.jpg'><img width="150" height="150" src="http://wildereef.com/wp-content/uploads/2019/02/grapple-150x150.jpg" alt="" srcset="http://wildereef.com/wp-content/uploads/2019/02/grapple-150x150.jpg 150w, http://wildereef.com/wp-content/uploads/2019/02/grapple-300x300.jpg 300w, http://wildereef.com/wp-content/uploads/2019/02/grapple-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4ef4d609" href='http://wildereef.com/wp-content/uploads/2019/02/orange-grapefruit.jpg'><img width="150" height="150" src="http://wildereef.com/wp-content/uploads/2019/02/orange-grapefruit-150x150.jpg" alt="" srcset="http://wildereef.com/wp-content/uploads/2019/02/orange-grapefruit-150x150.jpg 150w, http://wildereef.com/wp-content/uploads/2019/02/orange-grapefruit-300x300.jpg 300w, http://wildereef.com/wp-content/uploads/2019/02/orange-grapefruit-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</figure>
+			<h2>OUR BREW IS GOOD FOR YOU</h2>		
+							Kombucha is a rich source of probiotics which provide you with a healthy source of bacteria. These bacteria can improve several different aspects of health, including digestion, inflammation and weight loss.
+			<h2>TASTE THE BOOCH</h2>		
+		<p>So what are you waiting for? Check out our blog for weekly updates by subscribing to our newsletter below and be sure to check out all of our flavors we have to offer.</p>		
+				<figure><img src="http://wildereef.com/wp-content/uploads/elementor/thumbs/orange-grapefruit-o3jex87e26yq199phxr8dlx5lzojfl90504u5u0v8c.jpg" alt="orange-grapefruit" /></figure><figure><img src="http://wildereef.com/wp-content/uploads/elementor/thumbs/grapple-o3jex5dvhouv2fdsyejco4mrtu2fshxt4m6dq051r0.jpg" alt="grapple" /></figure><figure><img src="http://wildereef.com/wp-content/uploads/elementor/thumbs/ginger-peach-o3jex0oojiofgdkmpui7tntguwplq0f5fywybmc0m4.jpg" alt="ginger-peach" /></figure><figure><img src="http://wildereef.com/wp-content/uploads/elementor/thumbs/blue-raz-o3jewxv5z0kkhjoq6bac46j32r3i2x3yfkyhvsg74s.jpg" alt="blue-raz" /></figure>			
+			<a href="http://wildereef.com/?page_id=17" role="button">
+						More Flavors
+					</a>
+			<h4>Contact Us</h4>		
+			<h6>Phone: +1 (203) 556-3991
+</h6>		
+			<h6>Email: ds1438@messiah.edu</h6>		
+			<h6>450 E Chestnut Ave Lancaster, PA 17602</h6>		
+			<h6>MON-FRI 09:00 - 19:00, SAT-SUN 10:00 - 14:00</h6>		
+							<a href="" target="_blank">
+					Facebook
+				</a>
+							<a href="" target="_blank">
+					Instagram
+				</a>
+							<a href="" target="_blank">
+					Twitter
+				</a>
+			<h4>Subscribe to our newsletter</h4>		
+			<h5>Never miss our weekly blog by subscribing to our newsletter!</h5>
