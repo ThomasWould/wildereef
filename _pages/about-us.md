@@ -9,7 +9,7 @@ published: true
 post_date: 2019-02-14 04:40:04
 ---
 <h2>Our Story</h2>		
-		<p>Can you catch this wave? Each batch is made from all natural, organic and free trade teas with that Wilde flavor you love. </p> 		
+		<p>Can you catch this wave? Each batch is made from all natural, organic and free trade teas with that Wilde flavor you love. Please work. </p> 		
 			<h3>Who are We</h3>		
 		<p>Wildereef started in 2018 by Derek Skiewert with a hope to bring a better brew of Kombucha. On a trip to Colorado Derek discovered a passion for not only Kombucha but sharing that same joy of small handcrafted batches to you his friends. Join the family, become a booch brother!</p>		
 										<img width="893" height="1024" src="http://wildereef.com/wp-content/uploads/2019/02/41284437_684957091868644_7405313418131670711_n-893x1024.jpg" alt="" srcset="http://wildereef.com/wp-content/uploads/2019/02/41284437_684957091868644_7405313418131670711_n-893x1024.jpg 893w, http://wildereef.com/wp-content/uploads/2019/02/41284437_684957091868644_7405313418131670711_n-262x300.jpg 262w, http://wildereef.com/wp-content/uploads/2019/02/41284437_684957091868644_7405313418131670711_n-768x881.jpg 768w, http://wildereef.com/wp-content/uploads/2019/02/41284437_684957091868644_7405313418131670711_n-600x688.jpg 600w, http://wildereef.com/wp-content/uploads/2019/02/41284437_684957091868644_7405313418131670711_n.jpg 1080w" sizes="(max-width: 893px) 100vw, 893px" />											
