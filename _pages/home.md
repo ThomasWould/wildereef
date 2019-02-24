@@ -38,15 +38,5 @@ post_date: 2019-02-15 02:45:16
 </h6>		
 			<h6>Email: ds1438@messiah.edu</h6>		
 			<h6>450 E Chestnut Ave Lancaster, PA 17602</h6>		
-			<h6>MON-FRI 09:00 - 19:00, SAT-SUN 10:00 - 14:00</h6>		
-							<a href="" target="_blank">
-					Facebook
-				</a>
-							<a href="" target="_blank">
-					Instagram
-				</a>
-							<a href="" target="_blank">
-					Twitter
-				</a>
 			<h4>Subscribe to our newsletter</h4>		
 			<h5>Never miss our weekly blog by subscribing to our newsletter!</h5>
