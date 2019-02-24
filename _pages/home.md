@@ -11,7 +11,7 @@ post_date: 2019-02-15 02:45:16
 <h1>Handcrafted Kombucha</h1>		
 			<h1>Our Kombucha</h1>		
 		<p>Our kombucha, handcrafted with natural organic free trade teas, promotes good health and reflects our values and efforts as a company.</p>		
-			<a href="http://wildereef.com/?page_id=18" target="_blank" role="button">
+			<a href="http://wildereef.com/?page_id=18" target="_blank" role="button" rel="noopener noreferrer">
 						Learn More
 					</a>
 			<figure class='gallery-item'>
