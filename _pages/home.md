@@ -31,7 +31,6 @@ post_date: 2019-02-15 02:45:16
 				<figcaption class='wp-caption-text gallery-caption' id='gallery-1-105'>
 				Orange Grapefruit
 				</figcaption></figure>
-										<img width="150" height="150" src="http://wildereef.com/wp-content/uploads/2019/02/beach-84533_1920-150x150.jpg" alt="" srcset="http://wildereef.com/wp-content/uploads/2019/02/beach-84533_1920-150x150.jpg 150w, http://wildereef.com/wp-content/uploads/2019/02/beach-84533_1920-300x300.jpg 300w, http://wildereef.com/wp-content/uploads/2019/02/beach-84533_1920-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />											
 			<h2>OUR BREW IS GOOD FOR YOU</h2>		
 							Kombucha is a rich source of probiotics which provide you with a healthy source of bacteria. These bacteria can improve several different aspects of health, including digestion, inflammation and weight loss.
 			<h2>TASTE THE BOOCH</h2>		
