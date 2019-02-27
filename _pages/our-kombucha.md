@@ -32,6 +32,6 @@ post_date: 2019-02-14 04:40:04
 							Orange Grapefruit						</h3>
 							Click edit button to change this text. Lorem ipsum dolor sit amet consectetur adipiscing elit dolor						
 											<a>
-						Click Here						</a>
+						Check Availability 						</a>
 			<h2>WE WANT TO HEAR BACK FROM YOU!</h2>		
 							Being able to brew Kombucha allows us to come up constantly with great ideas for flavors! Maybe you have an idea for our next best brew! Stay in touch with us below!
