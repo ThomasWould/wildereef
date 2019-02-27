@@ -8,7 +8,7 @@ permalink: http://wildereef.com/?page_id=17
 published: true
 post_date: 2019-02-14 04:40:04
 ---
-<h2>100% Organic </h2>		
+<h2>100% Organic ◦ 100% Flavorful</h2>		
 								<img src="http://wildereef.com/wp-content/uploads/2019/02/GINGER-PEACH-1.png" title="GINGER PEACH (1)" alt="GINGER PEACH (1)" />							
 											<h3>
 							This is the heading						</h3>
