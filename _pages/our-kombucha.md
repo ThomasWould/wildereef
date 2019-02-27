@@ -29,7 +29,7 @@ post_date: 2019-02-14 04:40:04
 						Check Availability						</a>
 								<img src="http://wildereef.com/wp-content/uploads/2019/02/ORANGE-GRAPEFRUIT.png" title="ORANGE GRAPEFRUIT" alt="ORANGE GRAPEFRUIT" />							
 											<h3>
-							This is the heading						</h3>
+							Orange Grapefruit						</h3>
 							Click edit button to change this text. Lorem ipsum dolor sit amet consectetur adipiscing elit dolor						
 											<a>
 						Click Here						</a>
