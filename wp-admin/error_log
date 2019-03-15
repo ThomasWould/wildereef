@@ -1,3 +1,88 @@
 [15-Feb-2019 02:55:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wildereef/public_html/wp-includes/functions.php:3813) in /home/wildereef/public_html/wp-includes/pluggable.php on line 1223
 [15-Feb-2019 02:55:47 UTC] PHP Warning:  sprintf(): Too few arguments in /home/wildereef/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
 [15-Feb-2019 02:55:48 UTC] PHP Warning:  sprintf(): Too few arguments in /home/wildereef/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[28-Feb-2019 02:52:59 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7225344 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[28-Feb-2019 03:00:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24576 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:00:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32768 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-log-levels.php on line 1
+[28-Feb-2019 03:02:31 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:02:31 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 73728 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php on line 54
+[28-Feb-2019 03:03:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 1972
+[28-Feb-2019 03:03:31 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32768 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-log-levels.php on line 1
+[28-Feb-2019 03:05:11 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 1972
+[28-Feb-2019 03:05:11 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 73728 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php on line 54
+[28-Feb-2019 03:06:49 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 1972
+[28-Feb-2019 03:06:49 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 73728 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php on line 54
+[28-Feb-2019 03:08:36 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:11:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:13:40 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:15:57 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 1972
+[28-Feb-2019 03:15:57 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 73728 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php on line 54
+[28-Feb-2019 03:18:14 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:20:14 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:21:33 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:23:08 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:26:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:27:31 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:35:48 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 126976 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 1972
+[28-Feb-2019 03:39:32 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:41:09 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:41:09 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 73728 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php on line 54
+[28-Feb-2019 03:52:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 688128 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:53:31 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 241664 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 1972
+[28-Feb-2019 03:56:47 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 102400 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 1972
+[28-Feb-2019 03:56:47 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32768 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-log-levels.php on line 1
+[28-Feb-2019 03:58:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 102400 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:58:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32768 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-log-levels.php on line 1
+[28-Feb-2019 03:59:54 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 102400 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 03:59:54 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 73728 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php on line 54
+[28-Feb-2019 04:02:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 102400 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 04:02:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32768 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-log-levels.php on line 1
+[28-Feb-2019 04:03:48 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 102400 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 04:03:48 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32768 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-log-levels.php on line 1
+[28-Feb-2019 04:06:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 102400 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 04:06:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 73728 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php on line 54
+[28-Feb-2019 04:08:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 102400 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 04:08:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32768 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-log-levels.php on line 1
+[28-Feb-2019 04:09:54 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 102400 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[28-Feb-2019 04:09:54 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32768 bytes) in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/class-wc-log-levels.php on line 1
+[28-Feb-2019 04:17:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 126976 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 1972
+[28-Feb-2019 04:24:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208896 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[01-Mar-2019 17:31:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/wildereef/public_html/wp-includes/Requests/Transport/cURL.php on line 441
+[01-Mar-2019 17:31:51 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 31178752 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[09-Mar-2019 21:13:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/wildereef/public_html/wp-includes/Requests/Transport/cURL.php on line 441
+[09-Mar-2019 21:14:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/wildereef/public_html/wp-includes/Requests/Transport/cURL.php on line 441
+[09-Mar-2019 21:17:48 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[12-Mar-2019 20:00:53 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 241664 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[12-Mar-2019 23:48:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/wildereef/public_html/wp-includes/Requests/Transport/cURL.php on line 441
+[13-Mar-2019 20:05:15 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 24875008 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[13-Mar-2019 20:07:44 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[13-Mar-2019 20:10:47 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[13-Mar-2019 20:14:36 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[13-Mar-2019 20:17:51 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 26886144 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[13-Mar-2019 20:21:16 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 26886144 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[13-Mar-2019 20:24:09 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[13-Mar-2019 20:41:08 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 31178752 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[13-Mar-2019 23:11:20 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[13-Mar-2019 23:19:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 00:31:30 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 00:41:25 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 00:55:19 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 00:56:59 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 01:00:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 01:06:47 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 01:44:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_origin_headers() in /home/wildereef/public_html/wp-admin/admin-ajax.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/wildereef/public_html/wp-admin/admin-ajax.php on line 25
+[14-Mar-2019 01:55:40 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 02:28:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208896 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[14-Mar-2019 03:55:41 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 20:57:47 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 20:59:50 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 21:10:24 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 21:13:08 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 21:16:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 21:22:47 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 21:26:46 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 21:28:19 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 31178752 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 21:29:43 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 35270656 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
