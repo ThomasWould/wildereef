@@ -1,0 +1,2 @@
+[14-Mar-2019 21:21:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 26886144 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 21:25:32 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 26886144 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560

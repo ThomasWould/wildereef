@@ -1,4 +1,12 @@
 <?php
+
+define('WP_MEMORY_LIMIT','256M');
+
+/** Enable W3 Total Cache */
+
+define('WP_CACHE', true); // Added by W3 Total Cache
+
+
 /**
  * The base configuration for WordPress
  *
@@ -62,7 +70,6 @@ define( 'NONCE_SALT',       '1o-S8`MqTjd4F4pl[WPM8VCrbtCG)-Q7~k,dzIW~fF0U(9h5Ikc
  * a unique prefix. Only numbers, letters, and underscores please!
  */
 $table_prefix = 'wp_';
-
 
 
 
