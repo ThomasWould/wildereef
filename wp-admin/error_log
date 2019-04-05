@@ -86,3 +86,16 @@ Stack trace:
 [14-Mar-2019 21:26:46 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
 [14-Mar-2019 21:28:19 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 31178752 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
 [14-Mar-2019 21:29:43 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 35270656 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[03-Apr-2019 16:10:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wildereef/public_html/wp-content/plugins/elementor-pro/core/upgrade/upgrades.php on line 706
+[03-Apr-2019 16:10:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wildereef/public_html/wp-content/plugins/elementor-pro/core/upgrade/upgrades.php on line 706
+[03-Apr-2019 16:10:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wildereef/public_html/wp-content/plugins/elementor-pro/core/upgrade/upgrades.php on line 706
+[03-Apr-2019 16:10:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wildereef/public_html/wp-content/plugins/elementor-pro/core/upgrade/upgrades.php on line 706
+[03-Apr-2019 16:10:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wildereef/public_html/wp-content/plugins/elementor-pro/core/upgrade/upgrades.php on line 706
+[03-Apr-2019 16:10:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wildereef/public_html/wp-content/plugins/elementor-pro/core/upgrade/upgrades.php on line 706
+[03-Apr-2019 16:10:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wildereef/public_html/wp-content/plugins/elementor-pro/core/upgrade/upgrades.php on line 706
+[03-Apr-2019 16:10:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wildereef/public_html/wp-content/plugins/elementor-pro/core/upgrade/upgrades.php on line 706
+[03-Apr-2019 16:10:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wildereef/public_html/wp-content/plugins/elementor-pro/core/upgrade/upgrades.php on line 706
+[03-Apr-2019 16:10:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wildereef/public_html/wp-content/plugins/elementor-pro/core/upgrade/upgrades.php on line 706
+[03-Apr-2019 16:10:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wildereef/public_html/wp-content/plugins/elementor-pro/core/upgrade/upgrades.php on line 706
+[03-Apr-2019 16:10:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wildereef/public_html/wp-content/plugins/elementor-pro/core/upgrade/upgrades.php on line 706
+[03-Apr-2019 16:10:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wildereef/public_html/wp-content/plugins/elementor-pro/core/upgrade/upgrades.php on line 706
