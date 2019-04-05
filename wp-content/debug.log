@@ -1,0 +1,38 @@
+[14-Mar-2019 01:13:12 UTC] Post ID 291 is not supported by WPGHS. See wiki to find out how to add support.
+[14-Mar-2019 01:14:51 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 01:23:26 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 01:24:21 UTC] Post ID 355 is not supported by WPGHS. See wiki to find out how to add support.
+[14-Mar-2019 01:25:01 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 01:25:09 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:26:13 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 01:26:24 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:27:04 UTC] PHP Notice:  Trying to get property 'post_count' of non-object in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/widgets/class-wc-widget-price-filter.php on line 73
+[14-Mar-2019 01:28:04 UTC] Post ID 356 is not supported by WPGHS. See wiki to find out how to add support.
+[14-Mar-2019 01:28:04 UTC] Post ID 356 is not supported by WPGHS. See wiki to find out how to add support.
+[14-Mar-2019 01:28:04 UTC] Post ID 356 is not supported by WPGHS. See wiki to find out how to add support.
+[14-Mar-2019 01:29:13 UTC] PHP Notice:  Trying to get property 'post_count' of non-object in /home/wildereef/public_html/wp-content/plugins/woocommerce/includes/widgets/class-wc-widget-price-filter.php on line 73
+[14-Mar-2019 01:29:51 UTC] Post ID 357 is not supported by WPGHS. See wiki to find out how to add support.
+[14-Mar-2019 01:30:30 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:30:30 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:30:30 UTC] Controller::delete_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:30:30 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:30:30 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:30:36 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 01:32:25 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 01:32:29 UTC] Controller::delete_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:34:03 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 01:35:01 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:35:24 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 01:35:35 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:35:36 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:35:36 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:37:37 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 01:37:49 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:37:49 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:37:49 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:37:49 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:40:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 31178752 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 01:41:46 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+[14-Mar-2019 01:41:56 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:41:56 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
+[14-Mar-2019 01:41:57 UTC] Controller::export_post() : Semaphore is locked, import/export already in progress.
