@@ -1,0 +1,4 @@
+2019-03-12T20:00:53+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 241664 bytes) in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+
+2019-03-12T23:48:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/wildereef/public_html/wp-includes/Requests/Transport/cURL.php on line 441
+

@@ -1,0 +1,20 @@
+2019-03-13T20:05:15+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24875008 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+
+2019-03-13T20:07:44+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+
+2019-03-13T20:10:47+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+
+2019-03-13T20:14:36+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+
+2019-03-13T20:17:51+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 26886144 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+
+2019-03-13T20:21:16+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 26886144 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+
+2019-03-13T20:24:09+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+
+2019-03-13T20:41:08+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 31178752 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+
+2019-03-13T23:11:20+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+
+2019-03-13T23:19:22+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 29020160 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
+
