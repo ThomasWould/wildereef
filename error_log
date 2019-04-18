@@ -1,3 +1,32 @@
 [14-Mar-2019 21:21:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 26886144 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
 [14-Mar-2019 21:25:32 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 26886144 bytes) in /home/wildereef/public_html/wp-includes/functions.php on line 560
 [05-Apr-2019 18:01:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=97128 in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[14-Apr-2019 20:31:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=37108 in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
+[17-Apr-2019 22:39:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_day_link(), 1 passed in /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php on line 930 and exactly 3 expected in /home/wildereef/public_html/wp-includes/link-template.php:546
+Stack trace:
+#0 /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php(930): get_day_link('2019')
+#1 /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php(427): OceanWP_Breadcrumb_Trail->add_day_archive_items()
+#2 /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php(205): OceanWP_Breadcrumb_Trail->add_items()
+#3 /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php(65): OceanWP_Breadcrumb_Trail->__construct(Array)
+#4 /home/wildereef/public_html/wp-content/themes/oceanwp/partials/page-header.php(62): oceanwp_breadcrumb_trail()
+#5 /home/wildereef/public_html/wp-includes/template.php(706): require('/home/wildereef...')
+#6 /home/wildereef/public_html/wp-includes/template.php(653 in /home/wildereef/public_html/wp-includes/link-template.php on line 546
+[18-Apr-2019 05:44:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_day_link(), 1 passed in /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php on line 930 and exactly 3 expected in /home/wildereef/public_html/wp-includes/link-template.php:546
+Stack trace:
+#0 /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php(930): get_day_link('2019')
+#1 /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php(427): OceanWP_Breadcrumb_Trail->add_day_archive_items()
+#2 /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php(205): OceanWP_Breadcrumb_Trail->add_items()
+#3 /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php(65): OceanWP_Breadcrumb_Trail->__construct(Array)
+#4 /home/wildereef/public_html/wp-content/themes/oceanwp/partials/page-header.php(62): oceanwp_breadcrumb_trail()
+#5 /home/wildereef/public_html/wp-includes/template.php(706): require('/home/wildereef...')
+#6 /home/wildereef/public_html/wp-includes/template.php(653 in /home/wildereef/public_html/wp-includes/link-template.php on line 546
+[18-Apr-2019 05:44:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_day_link(), 1 passed in /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php on line 930 and exactly 3 expected in /home/wildereef/public_html/wp-includes/link-template.php:546
+Stack trace:
+#0 /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php(930): get_day_link('2019')
+#1 /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php(427): OceanWP_Breadcrumb_Trail->add_day_archive_items()
+#2 /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php(205): OceanWP_Breadcrumb_Trail->add_items()
+#3 /home/wildereef/public_html/wp-content/themes/oceanwp/inc/breadcrumbs.php(65): OceanWP_Breadcrumb_Trail->__construct(Array)
+#4 /home/wildereef/public_html/wp-content/themes/oceanwp/partials/page-header.php(62): oceanwp_breadcrumb_trail()
+#5 /home/wildereef/public_html/wp-includes/template.php(706): require('/home/wildereef...')
+#6 /home/wildereef/public_html/wp-includes/template.php(653 in /home/wildereef/public_html/wp-includes/link-template.php on line 546
+[18-Apr-2019 15:06:04 UTC] PHP Warning:  Error while sending QUERY packet. PID=80323 in /home/wildereef/public_html/wp-includes/wp-db.php on line 2007
